@@ -13,3 +13,12 @@ https://github.com/muthukumar915/Netflix_Clone.git
 4. Launch the index.html file in a web browser to view the Netflix home page.
 
 5. Feel free to modify the code and customize the page according to your preferences. You can update the content, change the colors, or add new features.
+
+<hr>
+
+<h1>Contact:</h1>
+
+If you have any questions, suggestions, or feedback, you can reach out to the project maintainer:
+
+Name : Muthu Kumar
+Email:muthukumar81016@gmail.com
