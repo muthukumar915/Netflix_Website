@@ -4,7 +4,7 @@ The Netflix clone project is a web application developed using HTML, CSS aiming 
 <h1>Getting Started</h1>
 To get started with this project, follow these steps:
 
-Clone the repository:
+Clone the repository:https://github.com/muthukumar915/Netflix_Clone.git
 
 Open the project in your preferred code editor.
 
