@@ -20,5 +20,5 @@ https://github.com/muthukumar915/Netflix_Clone.git
 
 If you have any questions, suggestions, or feedback, you can reach out to the project maintainer:
 
-Name : Muthu Kumar
+Name : Muthu Kumar<br>
 Email:muthukumar81016@gmail.com
